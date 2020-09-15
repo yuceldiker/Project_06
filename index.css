@@ -1,0 +1,45 @@
+.mt-0 {
+    padding-top:30px !important;
+    padding-bottom:30px !important;
+  }
+  
+  .whitespace {
+    padding-top:30px !important;
+  }
+  
+  .whitespacetop {
+    padding-top:20px !important;
+  }
+  
+  .handwriting {
+    font-family: 'La Belle Aurore';font-size: 22px;
+  }
+  .headlinefont {
+    font-family:'Sofia';
+  font-size:40px;
+  }
+  .leftlinefont{
+    font-family:'Leckerli One';
+    color:#CC0000;
+  }
+  .nikoheadfont{
+    font-family:'Mr Dafoe';
+      font-size:60px;
+  }
+  
+  .nikoquote{
+    font-family:'Mr Dafoe';
+      font-size:25px;
+  }
+  
+  .nikotimelineheadfont{
+    font-family:'Oleo Script';
+      font-size:45px;
+    color:#CC0000;
+  }
+  
+  .moreinfo{
+    font-family:'Acme';
+    font-size:20px;
+    text-align: center;
+  }
